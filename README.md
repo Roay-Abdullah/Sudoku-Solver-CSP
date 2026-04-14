@@ -43,7 +43,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Roay-Abdullah/Sudoku-Solver-CSP.git
-cd sudoku-csp-solver
+cd Sudoku-Solver-CSP
 ```
 
 ### Usage
@@ -51,7 +51,7 @@ cd sudoku-csp-solver
 Run the script directly to see the solver handle the built-in test cases:
 
 ```bash
-python sudokuSolverCSP.py
+python sodukoSolverCSP.py
 ```
 
 To solve your own board, modify the `boards` dictionary in the script. Boards are represented as a single string of 81 characters, where `0` represents an empty cell.
